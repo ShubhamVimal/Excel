@@ -41,20 +41,19 @@ A curated set of Excel pivot table-powered PDF reports built to deliver insights
 
 --
 
-## 🛠️ Technical Highlights
+## 🛠️ Technical Skills
 
-- Power Query for ETL  
-- Custom fiscal calendars and date tables  
-- Power Pivot relationships  
-- DAX for calculated KPIs  
+- Built ETL workflows using **Power Query**  
+- Created **date tables** and added **fiscal periods**  
+- Linked data using **Power Pivot relationships**  
+- Used **DAX** to create custom measures and columns  
 
 ---
 
-## 💡 Soft Skills in Action
+## 🎯 Soft Skills
 
-- Business fluency in Sales and Finance metrics  
-- Clear, user-focused report design  
-- Agile report iteration & tuning  
-- Strategic planning of data insights  
-
+- Solid understanding of **sales and finance data**  
+- Designed **user-friendly reports**  
+- Improved performance by **refining data models**  
+- Planned **report structure and updates** thoughtfully
 ---
