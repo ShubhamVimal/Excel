@@ -4,7 +4,7 @@ A curated set of Excel pivot table-powered PDF reports built to deliver insights
 
 ---
 
-## 🔍 Sales Analytics  
+## 🛒 Sales Analytics  
 **Actionable insights for Sales Ops to spot trends, drive growth, and support negotiation.**  
 📁 Folder: [`Sales Analytics`](https://github.com/ShubhamVimal/Excel/tree/main/Sales%20Analytics)
 
