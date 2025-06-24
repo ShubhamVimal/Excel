@@ -1,4 +1,4 @@
-# 📊 Excel-Driven Analytics Reports
+# 📊 Excel-Driven Analytics Reports for AtliQ Hardware
 
 A curated set of Excel pivot table-powered PDF reports built to deliver insights for Sales and Finance teams.
 
